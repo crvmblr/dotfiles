@@ -199,7 +199,7 @@ if [ -d ~/dotfiles ] ;then
 fi
 
 # Clone the packages
-git clone --depth 1 https://github.com/crumblepup/dotfiles
+git clone --depth 1 https://github.com/crvmblr/dotfiles
 echo ":: Installation files cloned into dotfiles folder"
 
 # Change into the dotfiles directory
